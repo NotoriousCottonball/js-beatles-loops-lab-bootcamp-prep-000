@@ -1,1 +1,3 @@
-function the
+function theBeatlesPlay(musicians, instruments) {
+  var emptyArray()
+}
