@@ -18,5 +18,5 @@ function iLoveTheBeatles (i) {
   var emptyArray = [];
   do {
     emptyArray.push("I love the Beatles!");
-  } while
+  } while (i<15)
 }
